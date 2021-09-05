@@ -19,3 +19,7 @@
 ## To run the test:
  * (env)$ python manage.py test
 
+![alt text](https://github.com/AbhiramiTS/incubyte/blob/screenshots/img1.png)
+
+![alt text](https://github.com/AbhiramiTS/incubyte/blob/screenshots/img2.png)
+
