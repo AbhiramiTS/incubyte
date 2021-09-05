@@ -6,6 +6,7 @@
  * $ cd INCUBYTE
 
 ## Create a virtual environment to install dependencies in and activate it:
+ * $ py -m venv venv
  * $ source env/bin/activate
 
 # Then install the dependencies:
